@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: mediumspringgreen;
+}
+div {
+    margin-top: 15px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: whitesmoke;
+    border-radius: 5%;
+}
+img {
+    width: 200px;
+}
+p {
+    font-family: 'Oswald', sans-serif;
+}
+h1 {
+    font-family: 'Pattaya', sans-serif;
+}
